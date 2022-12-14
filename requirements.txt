@@ -1,0 +1,6 @@
+gunicorn
+Django
+djangorestframework
+django-cors-headers
+drf_spectacular
+whitenoise

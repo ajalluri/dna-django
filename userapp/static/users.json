@@ -1,0 +1,39 @@
+[{"ajalluri":
+    {
+        "email":"ajalluri@deloitte.com",
+        "userName": "Ajay Vamsi Jalluri",
+        "designation": "DC Software Engineer I",
+        "skills": [
+            "Django",
+            "Data Engineer",
+            "Machine Learning",
+            "Jira"
+        ]
+    }
+},
+
+{"aashishsharma":
+    {
+       "email":"aashishsharma@deloitte.com",
+        "userName": "Sharma, Aashish",
+        "designation": "DC Product Master",
+        "skills": [
+            "Jira"
+        ]
+    }
+}
+,
+{
+    "srramamoorthy":
+    {
+        "email":"srramamoorthy@deloitte.com",
+         "userName": "Ramamoorthy, Sridhar",
+         "designation": "DC Sr Engineering Management Specialist",
+         "skills": [
+             "Jira",
+             "UI",
+             "JavaScript"
+         ]
+     }
+}
+]
